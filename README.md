@@ -16,5 +16,5 @@ Outil d'aide à la décision pour le choix de cours combinant données Planifium
 - Bot Discord Python
 
 ## Équipe
-- [Votre nom]
-- [Nom des coéquipiers]
+- Franck Martial Nemadeu Ngamako
+- ANAS Babba Farikou
