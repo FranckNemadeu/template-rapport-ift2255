@@ -27,6 +27,7 @@ title: Évaluation et tests
 ## Résultats des tests
 
 - Résumé qualitatif :
+
   - Comportement attendu obtenu
   - Bonne robustesse générale
 
