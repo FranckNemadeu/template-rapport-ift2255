@@ -15,6 +15,9 @@ Outil d'aide à la décision pour le choix de cours combinant données Planifium
 - Base de données SQLite
 - Bot Discord Python
 
+##Lien vers le depot
+https://github.com/FranckNemadeu/template-rapport-ift2255
+
 ## Équipe
 - Franck Martial Nemadeu Ngamako
 - ANAS Babba Farikou
