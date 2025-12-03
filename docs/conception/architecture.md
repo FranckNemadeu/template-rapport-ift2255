@@ -140,3 +140,7 @@ Discord → Bot → API REST → Base données → Agrégation → Affichage con
 ### Niveau 2 - Diagramme de Conteneurs
 
 ![Modèle C4 Niveau 2](niveau2.jpg)
+
+### Niveau 3 - Diagramme de Composants
+
+![Modèle C4 Niveau 2](niveau3.png)
