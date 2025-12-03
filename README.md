@@ -13,7 +13,7 @@ Outil d'aide à la décision pour le choix de cours combinant données Planifium
 - API REST FastAPI
 - Interface Web React/TypeScript
 - Base de données SQLite
-- Bot Discord Python
+- Bot Discord
 
 ##Lien vers le depot
 https://github.com/FranckNemadeu/template-rapport-ift2255
