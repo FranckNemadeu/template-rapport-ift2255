@@ -141,3 +141,4 @@ title: Conception - Diagrammes UML
 
 ![Diagramme de sequence pour soummetre un avis](soummetre.jpg)
 ![Diagramme de sequence pour Recherche un Cour](Recherche.jpg)
+![Diagramme de sequence pour comparer](Comparer.jpg)
