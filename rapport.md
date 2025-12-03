@@ -23,7 +23,7 @@ EduGuide est une plateforme web intelligente conçue pour les étudiants de l'Un
 
 ### Équipe de Développement
 
-**Équipe 06 - IFT2255**
+**Équipe 13 - IFT2255**
 
 | Membre                         | Matricule | Rôle Principal | Tâches Responsables |
 | ------------------------------ | --------- | -------------- | ------------------- |
